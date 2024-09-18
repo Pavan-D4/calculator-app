@@ -5,7 +5,7 @@ git config user.name "Pavan-D4"
 git config user.email "pavand@gmail.com"
 
 # Navigate to your project directory
-cd /home/ec2-user/work/shell-scripting/
+cd /home/ec2-user/work/calculator-app/
 
 # Add all changed files to Git
 git add .
