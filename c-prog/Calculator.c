@@ -1,4 +1,4 @@
-// Calculator.c
+// Calculator.c  c-proj
 #include <stdio.h>
 
 int main() {
