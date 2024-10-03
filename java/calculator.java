@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Calculator {
     public static void main(String[] args) {
-        // Create a scanner object for input
+        // Create a scanner object for input test
         Scanner scanner = new Scanner(System.in);
 
         // Get user input for the first number
